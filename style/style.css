@@ -1,0 +1,33 @@
+.search-bar {
+  margin-left: 20px;
+  margin-top: 40px;
+  background-color: #ffffff;
+  float: left;
+}
+.search-bar input {
+  margin: 10px;
+  height: 40px;
+  align-self: center;
+  float: left;
+}
+.search-bar button {
+  cursor:pointer;
+  float: none;
+  margin-top: 10px;
+  height: 40px;
+  border-radius: 2px;
+  border-style:solid;
+}
+.displayResult-object {
+  padding-top: 150px;
+}
+.media-object {
+  float: left;
+}
+.list-group-item:hover {
+  cursor:pointer;
+  background-color: #eee;
+}
+.list-group-item {
+  margin-right: 200px;
+}
