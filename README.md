@@ -12,6 +12,6 @@ It's my first app writen by ReactJS
 
 
 #### Image
-![alt text](http://www.upsieutoc.com/image/Ip8dNl)
+![alt text](http://sv1.upsieutoc.com/2017/07/04/screenshot.png)
 
 ```
